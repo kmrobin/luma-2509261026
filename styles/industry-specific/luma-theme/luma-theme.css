@@ -247,7 +247,6 @@ body.luma-theme .section.ContentCardContainer,
 body.luma-theme .section.ContentCardContainer > div,
 body.luma-theme .section.ContentCardContainer .Banner.hero-banner {
   min-height: 300px;
-  height: 300px !important;
   overflow: hidden;
 }
 
